@@ -1,0 +1,10 @@
+/.trust-migration.json
+/argv.json
+/aws
+/extensions
+/logs
+/powers
+/sessions
+/skills
+/steering
+/workspace-roots
